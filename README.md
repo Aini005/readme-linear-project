@@ -78,3 +78,5 @@ function robotic_arm_gui()
 end[Robotic Arm.pptx](https://github.com/user-attachments/files/20867494/Robotic.Arm.pptx)
 [ROBOTIC ARAM REPORT.pdf](https://github.com/user-attachments/files/20867429/ROBOTIC.ARAM.REPORT.pdf)
 ![WhatsApp Image 2025-06-23 at 15 55 48_2ce43440](https://github.com/user-attachments/assets/9ac07e63-ec86-4e1c-82f5-72f667f6d11f)
+www.linkedin.com/in/aiñyē-khãn-b0901a28a
+https://www.linkedin.com/posts/ai%C3%B1y%C4%93-kh%C3%A3n-b0901a28a_my-linear-project-of-robotic-arm-movement-activity-7342930954224582656-tJzE?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEYgOrkB6so03ngA91DveZ_GV1Jbs4R5148
